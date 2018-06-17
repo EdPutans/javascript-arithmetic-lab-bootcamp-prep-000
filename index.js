@@ -29,7 +29,7 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return parsefloat(n,10)
+  return parseFloat(n,10)
 }
 
 parsefloat('Nicaragua',10)
