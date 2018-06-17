@@ -32,4 +32,4 @@ function preserveDecimal(n) {
   return parsefloat(n)
 }
 
-function preserveDecimal
+parsefloat('Nicaragua',10)
